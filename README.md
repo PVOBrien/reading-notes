@@ -36,6 +36,6 @@ This, specifically, is a page designed to be where I will write my 15 daily read
 
 > I have not failed. I’ve just found 10,000 ways that won’t work.
 
-**Thomas Edison**
+above quote attributed to **Thomas Edison**
 
 [Paul O'Brien's Github Profile](https://github.com/PVOBrien)

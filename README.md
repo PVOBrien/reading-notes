@@ -35,7 +35,6 @@ This, specifically, is a page designed to be where I will write my 15 daily read
 15.
 
 > I have not failed. I’ve just found 10,000 ways that won’t work.
-
-\- Thomas Edison
+Thomas Edison
 
 [Paul O'Brien's Github Profile](https://github.com/PVOBrien)

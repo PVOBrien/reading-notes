@@ -4,7 +4,7 @@ This, specifically, is a page designed to be where I will write my 15 daily read
 
 ## Table of Contents (Daily Reading Assignments)
 
-1.
+1. [Introductory HTML and JavaScript](introductory-html-and-javascript.md)
 
 2.
 

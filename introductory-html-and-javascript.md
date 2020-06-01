@@ -1,4 +1,4 @@
-# 01 Introductory HTML and JavaScript
+# 01: Introductory HTML and JavaScript
 
 For our introductory read, much of it was that expected solid, foundational content I'll be able to build on to the next level of html coding. No great surprises, but I did dig into the content, and tested it out by coding some examples into an .html file, using an external .css file, as well as javascript. For that I copied code snippets both from the html and css book as well as the JavaScript curriculum from their example codes [here](http://www.htmlandcssbook.com/code-samples/) and [here](http://www.javascriptbook.com/code/), respectively. I did this within VS Code, which forced me to navigate VS Code, learn how to enable the html intellisense functionality - after saving a file as .html the intellisense aids came to life, color coding the code, informing me of errors or irregularities, and giving me the option of auto-formatting content - and just plain "get dirty" with a code editor. For being just a code editor, VS Code seems to be full of features.
 
@@ -9,3 +9,5 @@ I also wanted to keep finding ways to connect the basic html, css, and - to a le
 Between these two books' readings, it provides a solid footing to build on. I'm excited to begin learning how to properly utilize CSS in creating content in html that can be dynamically formatted, and using JavaScript (and JQuery in time) in making the content more interactive and unique.
 
 Paul O'Brien (2020-05-31)
+
+[Return to Code 201 Reading Notes](https://pvobrien.github.io/reading-notes/)

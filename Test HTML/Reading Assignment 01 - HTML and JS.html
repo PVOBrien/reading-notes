@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>First Page of Code 201 Reading Notes</title>
+        <!-- <meta -->
+        <!-- the above tag is a meta tag, that offers up various "behind the scenes" details.-->
+        <!-- here is where you would add CSS stylings "inline" instead of referencing an external .css file-->
+        <!-- FUN FACT: you can't add notes inline with a property, you have to do it after. So, while yes the comments are commented out, they are still... parsed? so: if you
+            add notes it has to be somewhere with no <></>. -->
+        <link rel="stylesheet" type="text/css"	href="reading-assignment-01.css">
+        <!-- in h1 css, why doesn't the border property have any impact?-->
+        <!--[if lt IE 9]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js">
+        </script>
+        <![endif]-->
+        <!-- I'm confused if the above 3 lines need to be un-commented in order to function, or if it somehow functions despite being commented out.-->
+    </head>
+    <body>
+        <header>
+            <h1 class=topline>Paul O'Brien <br> Code Testing Ground</h1>
+            <nav>
+                <ul>
+                    <li><a href="">home</a></li>
+                    <li><a href="">classes</a></li>
+                    <li><a href="">catering</a></li>
+                    <li><a href="">about</a></li>
+                    <li><a href="">contact</a></li>
+                </ul>
+            </nav>
+        </header>
+        <!-- here's where all the visual, on-screen content resides. But not necessarily formatted as that is in coordination with CSS in the above head/style segment.-->
+        <script src="js/add-content.js"></script>
+        <div>
+            <p id=firstParagraph> This is a simple paragraph in html. However, I did include a CSS id #firstParagraph to test out that capability. And it works, with a silver
+                background, a different color for the text. By default, the p element wraps the text to size of the screen, so you only would need to modify for that for
+                other reasons. <span>And here is the use of span to make a span of a paragraph with different properties.</span></p>
+            <aside class="left-or-right"> This is an aside. </aside>
+            <p>This paragraph isn't using any CSS id, instead it is inheriting properties from CSS modifying the p element.</p>
+        </div>
+    </body>
+</html>

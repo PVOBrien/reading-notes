@@ -1,0 +1,59 @@
+header, section, footer, aside, nav, article, figure, figcaption {
+    display: block;}
+body {
+    background-color: thistle;
+    background-image: image();}
+header {
+    height: 160px;
+    background-image: url(images/header.jpg);}
+h1 {
+    color: #871e1e;
+    text-align: center;
+    font-family: garamond;
+    background-color: rgb(192, 192, 248);
+    background-position: initial;
+    border-width: 10px,10px,10px,10px;
+    border: blueviolet;
+    padding: 10px;}
+p {
+    padding: 10px;
+    font-family: Tahoma;
+    text-indent: 20Px;}
+#firstParagraph {
+    background-color: silver;
+    padding: 20px;
+    font-style: normal;
+    color:rgb(150, 89, 137);
+    text-align: left;}
+div {
+    border-width: 20px;
+    border-color: teal;
+    padding: 30;}
+aside {
+    background-color: tomato;
+    font-size: 35px;}
+span {
+    background-color: yellow;
+    line-height: 10px;}
+.left-or-right {
+    font-family: monospace;}
+.topline {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;}
+nav, footer {
+    clear: both;
+    color: #ffffff;
+    background-color: #aeaca8;
+    height: 30px;}
+nav ul {
+    margin: 0px;
+    padding: 5px 0px 5px 80px;}
+nav li {
+    display: inline;
+    text-align: center;
+    margin-right: 40px;}
+nav li a {
+    text-align: center;
+    color: #ffffff;}
+nav li a:hover, nav li a.current {
+    color: #000000;}

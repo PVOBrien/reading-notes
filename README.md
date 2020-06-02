@@ -6,7 +6,7 @@ This, specifically, is a page designed to be where I will write my 15 daily read
 
 1. [Introductory HTML and JavaScript](introductory-html-and-javascript.md)
 
-2.
+2. [HTML Text, Introductory CSS, Basic JavaScript Instructions, Decisions and Loops](class-02.md)
 
 3.
 

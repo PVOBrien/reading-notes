@@ -8,7 +8,7 @@ This, specifically, is a page designed to be where I will write my 15 daily read
 
 2. [HTML Text, Introductory CSS, Basic JavaScript Instructions, Decisions and Loops](class-02.md)
 
-3.
+3. [ HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
 
 4.
 

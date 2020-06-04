@@ -10,7 +10,7 @@ This, specifically, is a page designed to be where I will write my 15 daily read
 
 3. [HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
 
-4.
+4. [HTML Links, CSS Layout, JS Functions](class-04.md)
 
 5.
 

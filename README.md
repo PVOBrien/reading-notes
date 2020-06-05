@@ -12,7 +12,7 @@ This, specifically, is a page designed to be where I will write my 15 daily read
 
 4. [HTML Links, CSS Layout, JS Functions](class-04.md)
 
-5.
+5. [HTML Images; CSS Color & Text](class-05.md)
 
 6.
 

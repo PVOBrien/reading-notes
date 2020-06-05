@@ -1,6 +1,6 @@
 # HTML Images; CSS Color & Text
 
-Fundamental content of any page, and many properties and their attributes that allow them to look and be properly placed in a composition. With a background in photography, the image properties are familiar to me (and that is a comfort to me, with so much new information I'm ingesting right now), and likewise with color. For color, I appreciate Adobe's [Color](https://color.adobe.com/create/color-wheel) for me to visualize color themes.
+Fundamental content of any page, and many properties and their attributes that allow them to look and be properly placed in a composition. With a background in photography, the image properties are familiar to me (and that is a comfort to me, with so much new information I'm ingesting right now), and likewise with color. For color, I appreciate Adobe's [Color](https://color.adobe.com/create/color-wheel) for me to visualize color themes. And look! New to me, there is an accessibility tool now included (and I know what that's for now)!
 
 Text, I understand many of text's properties, but there are so many, and attributes beside. I find it best to have our textbook nearby when I get to feeling that my font could be better displaye for one way or another reason. That way I can find the correct collection of settings to dial in the look and impact of the type.
 

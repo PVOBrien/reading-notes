@@ -80,3 +80,23 @@ These two methods have advantages and concerns. Updating content by way of inner
 Much of the 40 pages of reading on the matter of Document Object Model is dedicated to understanding showing how to reference, access, and modify the html and what is onscreen. However, until I see this in action, it is too theoretical for me to do anything beside parrot what is in our text books.
 
 **NOTE**: Due to the volume of content in this reading assignment, and how I cannot currently envision how this works, I have not yet updated my flashcards. I hope to do so upon understanding the content and having the time to do so.
+
+# Understanding The Problem Domain Is The Hardest Part Of Programming
+
+Making mention of waterfall and agile style methods, author John Sonmez discusses the importance of understanding the problem, and therefore being able to deduce the correct solution, and plot a course of action accordingly. Because without understanding what needs to be completed (alongside any other requirements) it is likely your solution isn't the correct one (or could be more correct).
+
+So: Know what you're working on, the problem and the scope, before coding.
+
+> ‘Would you tell me, please, which way I ought to go from here?’
+> 
+> ‘That depends a good deal on where you want to get to,’ said the Cat.
+> 
+> ‘I don’t much care where—’ said Alice.
+> 
+> ‘Then it doesn’t matter which way you go,’ said the Cat.
+> 
+> ‘—so long as I get somewhere,’ Alice added as an explanation.
+> 
+> ‘Oh, you’re sure to do that,’ said the Cat, ‘if you only walk long enough.’
+>
+> ***Lewis Carrol, Alice’s Adventures in Wonderland***

@@ -14,7 +14,7 @@ This, specifically, is a page designed to be where I will write my 15 daily read
 
 5. [HTML Images; CSS Color & Text](class-05.md)
 
-6.
+6. [JS Object Literals; The DOM, and Understanding the Problem Domain](class-06.md)
 
 7.
 

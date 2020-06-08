@@ -100,3 +100,7 @@ So: Know what you're working on, the problem and the scope, before coding.
 > ‘Oh, you’re sure to do that,’ said the Cat, ‘if you only walk long enough.’
 >
 > ***Lewis Carrol, Alice’s Adventures in Wonderland***
+
+Paul O'Brien (2020-07-08)
+
+[Return to Code 201 Reading Notes](https://pvobrien.github.io/reading-notes/)

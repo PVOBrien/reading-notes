@@ -28,3 +28,8 @@ Color me surprised that tables are still useful! Joking aside, until I read thro
 
 ## Functions, Methods, and Objects (pp 106-144)
 
+I am still sorting this out, as the names of values and properties change whether they are part of an object or not. As such, my flashcards haven't been yet fully updated as I'm ensuring I have this correctly sorted (there is currently an entry for constructor notation).
+
+Paul O'Brien (2020-06-09)
+
+[Return to Code 201 Reading Notes](https://pvobrien.github.io/reading-notes/)

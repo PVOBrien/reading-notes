@@ -16,7 +16,7 @@ This, specifically, is a page designed to be where I will write my 15 daily read
 
 6. [JS Object Literals; The DOM, and Understanding the Problem Domain](class-06.md)
 
-7.
+7. [Object-Oriented Programming, HTML Tables](class-07.md)
 
 8.
 

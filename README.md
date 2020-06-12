@@ -22,7 +22,7 @@ This, specifically, is a page designed to be where I will write my 15 daily read
 
 9. [Forms and JS Events](class-09.md)
 
-10.
+10.[Error Handling & Debugging](class-10.md)
 
 11.
 

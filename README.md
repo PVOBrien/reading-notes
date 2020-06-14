@@ -24,7 +24,7 @@ This, specifically, is a page designed to be where I will write my 15 daily read
 
 10.[Error Handling & Debugging](class-10.md)
 
-11.
+11.[Audio, Video, Images](class-11.md)
 
 12.
 

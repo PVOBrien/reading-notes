@@ -22,11 +22,11 @@ This, specifically, is a page designed to be where I will write my 15 daily read
 
 9. [Forms and JS Events](class-09.md)
 
-10.[Error Handling & Debugging](class-10.md)
+10. [Error Handling & Debugging](class-10.md)
 
-11.[Audio, Video, Images](class-11.md)
+11. [Audio, Video, Images](class-11.md)
 
-12.
+12. [Chart.js, Canvas](class-12.md)
 
 13.
 

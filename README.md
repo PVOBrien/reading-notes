@@ -31,6 +31,8 @@ This, specifically, is a page designed to be where I will write my 15 daily read
 13. [The Past, Present, and Future of Local Storage for Web Applications](class-13.md)
 
 14.
+- A. [CSS Transforms, Transitions, and Animations
+- B. [What Google Learned From Its Quest to Build the Perfect Team]
 
 15.
 

@@ -28,7 +28,7 @@ This, specifically, is a page designed to be where I will write my 15 daily read
 
 12. [Chart.js, Canvas](class-12.md)
 
-13.
+13. [The Past, Present, and Future of Local Storage for Web Applications](class-13.md)
 
 14.
 

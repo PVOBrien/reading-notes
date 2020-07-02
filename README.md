@@ -42,7 +42,7 @@ These are my 15 daily reading assignments for [Code Fellows Code 201d64](https:/
 
 ## Code 301 - Intermediate Software Development
 
-
+1. [SMACSS and Responsive Web Design](/301-reading-01.md)
 
 ----------------------
 

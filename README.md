@@ -2,7 +2,7 @@
 
 [Code Fellows](https://www.codefellows.org/) assigns readings to make the participants aware of the various topics, skills, and fundamentals that are the core of a developer's toolkit. We are reading through Jon Duckett's _HTML&CSS_ and _JavaScript&jQuery_ books as the basis for the assignments.
 
-===
+--------------------
 
 ## 201 Daily Reading Assignments
 
@@ -38,13 +38,13 @@ These are my 15 daily reading assignments for [Code Fellows Code 201d64](https:/
 - A. [CSS Transforms, Transitions, and Animations](class-14-a.md)
 - B. [What Google Learned From Its Quest to Build the Perfect Team](class-14-b.md)
 
-===
+-----------------------
 
 ## 301 - Intermediate Software Development
 
 
 
-===
+----------------------
 
 ## Code 401 - Advanced Software Development
 

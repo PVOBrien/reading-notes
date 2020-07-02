@@ -1,8 +1,12 @@
-# Code 201 Reading Notes
+# Reading Notes
 
-This, specifically, is a page designed to be where I will write my 15 daily reading assignments for [Code Fellows Code 201d64](https://canvas.instructure.com/courses/2048509/assignments/15183055?module_item_id=30849446). This is one way to "dogfood" the tools and skills I'm learning. It's been proven time again, putting skills to application is a _superb_ way to better remember whatever it is you're trying to learn.
+[Code Fellows](https://www.codefellows.org/) assigns readings to make the participants aware of the various topics, skills, and fundamentals that are the core of a developer's toolkit. We are reading through Jon Duckett's _HTML&CSS_ and _JavaScript&jQuery_ books as the basis for the assignments.
 
-## Table of Contents (Daily Reading Assignments)
+===
+
+## 201 Daily Reading Assignments
+
+These are my 15 daily reading assignments for [Code Fellows Code 201d64](https://canvas.instructure.com/courses/2048509/assignments/15183055?module_item_id=30849446). This is one way to "dogfood" the tools and skills I'm learning. It's been proven time again, putting skills to application is a _superb_ way to better remember whatever it is you're trying to learn.
 
 1. [Introductory HTML and JavaScript](introductory-html-and-javascript.md)
 
@@ -34,7 +38,16 @@ This, specifically, is a page designed to be where I will write my 15 daily read
 - A. [CSS Transforms, Transitions, and Animations](class-14-a.md)
 - B. [What Google Learned From Its Quest to Build the Perfect Team](class-14-b.md)
 
-15.
+===
+
+## 301 - Intermediate Software Development
+
+
+
+===
+
+## Code 401 - Advanced Software Development
+
 
 
 

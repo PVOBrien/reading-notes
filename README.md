@@ -4,7 +4,7 @@
 
 --------------------
 
-## 201 Daily Reading Assignments
+## Code 201 Daily Reading Assignments
 
 These are my 15 daily reading assignments for [Code Fellows Code 201d64](https://canvas.instructure.com/courses/2048509/assignments/15183055?module_item_id=30849446). This is one way to "dogfood" the tools and skills I'm learning. It's been proven time again, putting skills to application is a _superb_ way to better remember whatever it is you're trying to learn.
 
@@ -40,7 +40,7 @@ These are my 15 daily reading assignments for [Code Fellows Code 201d64](https:/
 
 -----------------------
 
-## 301 - Intermediate Software Development
+## Code 301 - Intermediate Software Development
 
 
 

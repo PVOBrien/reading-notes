@@ -43,7 +43,8 @@ These are my 15 daily reading assignments for [Code Fellows Code 201d64](https:/
 ## Code 301 - Intermediate Software Development
 
 1. [SMACSS and Responsive Web Design](301-reading-01.md)
-2. [PAIR PROGRAMMING and other Readings](301-reading-02.md)
+2. [PAIR PROGRAMMING and jQuery, Events, and The DOM](301-reading-02.md)
+3. [MUSTACHE and FLEXBOX](301-reading-03.md)
 
 ----------------------
 

@@ -47,6 +47,7 @@ These are my 15 daily reading assignments for [Code Fellows Code 201d64](https:/
 3. [MUSTACHE and FLEXBOX](301-reading-03.md)
 4. [CSS GRID & Regex Introduction](301-reading-04.md)
 5. [Heroku Deployment](301-reading-05.md)
+6. [Node, Express, and APIs](301-reading-06.md)
 
 ----------------------
 

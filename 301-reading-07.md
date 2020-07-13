@@ -6,7 +6,7 @@ An explanation about the very very backbone of the internet's means and ways of 
 
 For some while, the internet seemed to have a bit more "wild west" approach to using this, but it has since calmed down, and the conversation ended with a note saying that this has quieted down and Ruby is used mostly to do a good job of making RESTful data (or, data RESTful?).
 
-## [perAgent](https://visionmedia.github.io/superagent)
+## [SuperAgent](https://visionmedia.github.io/superagent)
 
 Bookmarked. This seems to be a way to manage the backend via JavaScript, but I am at a loss what it is exactly organizing or ... re-parsing ... into JavaScript to begin with. So at the moment, it's making it easier for me to not understand what is going on any. Additional class time will enlighten me to it's machinations.
 

@@ -1,6 +1,6 @@
 ## Refactoring
 
-### [Functional Programming[(https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
+### [Functional Programming](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 
 Functional programming is not a _type_ of programming per se, but more of a philosophy or goal of coding. It is a goal to have "pure" code, that always returns the same result with the same inputs (also called deterministic code), and doesn't have side effects to other parts of the code. Stable, consistent, and predictable. The article also makes a point that all numbers within a function, should be called into the function (that does not live solely within that that function).
 

@@ -50,6 +50,7 @@ These are my 15 daily reading assignments for [Code Fellows Code 201d64](https:/
 6. [Node, Express, and APIs](301-reading-06.md)
 7. [REST & APIs Continued](301-reading-07.md)
 8. [SQL](301-reading-08.md)
+9. [Refactoring, and In Pursuit of More Legible Code](301-reading-09.md) 
 ----------------------
 
 ## Code 401 - Advanced Software Development

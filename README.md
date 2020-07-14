@@ -49,7 +49,7 @@ These are my 15 daily reading assignments for [Code Fellows Code 201d64](https:/
 5. [Heroku Deployment](301-reading-05.md)
 6. [Node, Express, and APIs](301-reading-06.md)
 7. [REST & APIs Continued](301-reading-07.md)
-
+8. [SQL](301-reading-08.md)
 ----------------------
 
 ## Code 401 - Advanced Software Development

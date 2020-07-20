@@ -53,7 +53,7 @@ These are my 15 daily reading assignments for [Code Fellows Code 201d64](https:/
 9. [Refactoring, and In Pursuit of More Legible Code](301-reading-09.md)
 10. [The Stack](301-reading-10.md)
 11. [EJS - Embedded JavaScript](301-reading-11.md)
-12. [EJS = Intro to Partials](301-reading-12.md)
+12. [EJS - Intro to Partials](301-reading-12.md)
 
 ----------------------
 

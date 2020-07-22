@@ -24,7 +24,7 @@ There are broad best practices so that malicious code can't so easily run on you
 2. Limit the incoming amount of data. Less data = less amount of code able to run.
 3. Sandbox uploaded files. I think this is related to the prerequisite to sanitize data, to put it through a intermediary that "takes the teeth" out of any dangerous code that might otherwise have been run if it didn't get "laundered".
 
-## [Forms in HTML5}(https://htmlreference.io/forms/)
+## [Forms in HTML5](https://htmlreference.io/forms/)
 This above link is a descriptive sheet page of all things forms, and is bookmarked for later use.
 
 ## [Styling HTML5 Forms](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g5_p_BVUGWykHfqx6bb7qK)

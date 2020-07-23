@@ -55,6 +55,7 @@ These are my 15 daily reading assignments for [Code Fellows Code 201d64](https:/
 11. [EJS - Embedded JavaScript](301-reading-11.md)
 12. [EJS - Intro to Partials](301-reading-12.md)
 13. [Sending Form Data & Update/Delete](301-reading-13.md)
+14. [Database Normalization](301-reading-14.md)
 
 ----------------------
 

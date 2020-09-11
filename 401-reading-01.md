@@ -20,7 +20,23 @@ Arrays are of course powerful and useful, but I am currently apprehensive that y
 
 Also, arrays are not literals, they must be initialized with the __new__ keyword.
 
+## Operators
 
+![Operators for Java](https://github.com/PVOBrien/reading-notes/blob/master/Java%20Operators.png?raw=true)
+
+That above image is also arranged in order of precedence (top entry takes first precedence and on down in order). There are definitely different and currently unknown operators (shift? relational? assignment?) that we'll be learning as we pick up Java, and how to correctly utiilize them.
+
+## Expressions, Statements, and Blocks
+
+Nothing much unique here, all standard ideas and meanings for these. #NothingToReport
+
+## Control Flow Statements
+
+This includes the if-then-else, do-while/while-do, and for loops, and there isn't anything particularly unique. Later on, concerning break statements, it does make mention that there is a difference in labeled and unlabeled break statements:
+
+>> An unlabeled break statement terminates the innermost switch, for, while, or do-while statement, but a labeled break terminates an outer statement.
+
+Which if I read that correct, is if you call out a _break_ that will break out of that function or method, whereas if you just let a statement break (naturally? or otherwise?) it will just break out of the code block the system is currently in.
 
 
 

@@ -34,12 +34,11 @@ Nothing much unique here, all standard ideas and meanings for these. #NothingToR
 
 This includes the if-then-else, do-while/while-do, and for loops, and there isn't anything particularly unique. Later on, concerning break statements, it does make mention that there is a difference in labeled and unlabeled break statements:
 
->> An unlabeled break statement terminates the innermost switch, for, while, or do-while statement, but a labeled break terminates an outer statement.
+> An unlabeled break statement terminates the innermost switch, for, while, or do-while statement, but a labeled break terminates an outer statement.
 
 Which if I read that correct, is if you call out a _break_ that will break out of that function or method, whereas if you just let a statement break (naturally? or otherwise?) it will just break out of the code block the system is currently in.
 
-
-
+---
 
 A word about "information hiding": why does it matter? Is this just semantics, or is there some "code security" idea that I'm missing here, where "seeing" some code could be "dangerous", or is it more about streamlining what code can be utilized by a given object, and pruning out the stuff that doesn't matter for that object so as to ensure that code only does what it should?
 

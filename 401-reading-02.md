@@ -1,5 +1,9 @@
 # Java Imports
 
+Went [here](https://howtoprogramwithjava.com/java-imports/) to get an idea for imports, as the current link doesn't resolve.
+
+About Java Imports, they are imported with the __import__ keyword right from the get-go, first thing stated in the code. With them it allows you to bring what you need in to the code, but only what you need, so as to keep the file size / code base size down. However, it's not necessary: you could - if you wanted to - bring in the necessary parts, you would just have to write out the entirety of that class and object each time you reference it. On the other end of the __import__ philosophy, you could bring the whole package by using a * to bring in that whole library.
+
 # Different types of loops in Java
 
 The standard _for_ loop is just like in JavaScript

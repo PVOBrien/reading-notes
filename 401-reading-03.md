@@ -30,6 +30,6 @@ How to catch and handle exceptions is explained  in the [related Oracle document
 
 This involves _try_, _catch_, and _finally_ code blocks, wherein the exception can be corrected perhaps within the application, or by interaction with the user, or if it devolves, details can by saved in order (hopefully) to find a solution with the issue. The _finally_ block is in place to ensure everything about the exception is closed, tidied up, garbaged, etc.
 
-## [Java File Scanner].(https://docs.oracle.com/javase/tutorial/essential/io/scanning.html)
+## [Java File Scanner](https://docs.oracle.com/javase/tutorial/essential/io/scanning.html)
 
 The Scanner library is used to read through .txt files, and then parse that information by various means. White space is used to seperate "tokens".

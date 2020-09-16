@@ -62,8 +62,9 @@ These are my 15 daily reading assignments for [Code Fellows Code 201d64](https:/
 
 ## Code 401 - Advanced Software Development
 
-
-
+1. [Java Basics](401-reading-01.md)
+2. [Arrays, Loops, Imports](401-reading-02.md)
+3. [Maps, primitives, File I/O](401-reading-03.md)
 
 > I have not failed. I’ve just found 10,000 ways that won’t work.
 

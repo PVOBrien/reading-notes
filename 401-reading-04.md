@@ -1,7 +1,7 @@
 # [Java OO Tutorial](https://docs.oracle.com/javase/tutorial/java/concepts/)
 
 ## What is an Object?
-  The definition of an object in programming is very close to what a loose definition is of what an object is within the real world: something that exists that has attibutes, properties, and has some usual, basically defined set of actions it can perform.
+  The definition of an object in programming is very close to what a loose definition is of what an object is within the real world: something that exists that has attributes, properties, and has some usual, basically defined set of actions it can perform.
   
   As such, objects are well-defined, portable, can have hidden information within the object (?), is able to be reused, duplicated, and tested.
 

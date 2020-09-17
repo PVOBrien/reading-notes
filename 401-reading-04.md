@@ -12,4 +12,4 @@
   
 ## Binary, Decimal, and Hexadecimal
   
-  These are all different manners of counting and/or organizing numbers. Decimals are well known and understandable well enough.whatsa
+  These are all different manners of counting and/or organizing numbers. Decimals are well known and understandable well enough. Binary and hexadecimal, and their base2 or base 16 counting, and how those are used, is not clear to me. They seem to be more efficient for certain purposes, no doubt memory space/allocation. But I cannot count in either of those latter two.

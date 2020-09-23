@@ -30,4 +30,8 @@ Local Processing
 
 - Handling Redirects - use __setInstanceFollowRedirects()__.
 
-- Reading the Response = first parse a response 
+- Reading the Response = first parse a response using "_InputStream_ of the of the _HttpUrlConnection_ instance", then execute with _getResponseCode()_, _connect()_, _getInputStream()_, or _getOutputStream()_.
+
+- Reading Response on Failed Requests - you'll need to "else {}" the stream from _HttpUrlConnection.getErrorStream()_.
+
+- Building the Full Response - you return your response string first by building the string, then sending it with "some of the methods" (doesn't go into further detail) from the _HttpUrlConnection_ instance.

@@ -2,6 +2,11 @@
 
 ## [Spring App Basics](https://spring.io/guides/gs/serving-web-content)
 
+After building the demo app, it was interesting that it "ran" at "75% executing". Also, there were a lot of dependencies/plugins to download to get it to run, I feel there's a lot going on under the hood to get it working. It uses the model-view-controller (MVC) model to organize, display, and gather data respectively, and it has it's own syntax for those responsibilities.
+
+As for the application itself, it ran, there's a framework to impliment and use, and it's server. The internet is yours! 
+
+
 ## [Spring MVC and Thymeleaf](https://www.thymeleaf.org/doc/articles/springmvcaccessdata.html)
 
 > In a typical Spring MVC application, @Controller classes are responsible for preparing a model map with data and selecting a view to be rendered.
@@ -15,7 +20,7 @@ If its data that can be used for views, it is considered a model attribute, whic
 - ModeAndView potato = new ModelAndView(String message)
 - @ModelAttribute(String message) - this is via Java Annotation
 
-which adds the addtribute to the model and is available in Thymeleaf views, acessible by syntac __${attributeName}__. Which, it notes, is a "Spring EL" aka Spring Expression Language expression that will allow for querying and "manipulating an object graph at runtime" (?).
+which adds the addribute to the model and is available in Thymeleaf views, acessible by syntac __${attributeName}__. Which, it notes, is a "Spring EL" aka Spring Expression Language expression that will allow for querying and "manipulating an object graph at runtime" (?).
 
 2. Request parameters
 

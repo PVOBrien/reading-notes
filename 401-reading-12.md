@@ -51,7 +51,12 @@ It goes on to note that it uses an interface, that Spring JPA creates for the ap
 
 - This app can be built as an executable, or you can run it with gradle or Maven.
 
-## [CrudRepository, and Other Details](https://www.baeldung.com/spring-data-repositories)
+## [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa)
+
+Using annotation, you define Entity and within it associated Id with a GeneratedValue. Along with a constructor function for the object to be put into the Java Persistence API, you have the makings of a database, within Java. It seems that with this arrangement, interfaces will be instrumental in organizing and using the content going into and out of the database. And the database has methods to query and surface objects that are stored within it, either by its key value pairs or the unique Id created via the @GeneratedValue.
+
+
+## [Comparing Repositories: CrudRepository, and Other Details](https://www.baeldung.com/spring-data-repositories)
 
 but first! _JpaRepository_ has both full APIs of _CrudRepository_ and _PagingAndSortingRepository_! However if you don't need all that power, the others have their usefulness.
 

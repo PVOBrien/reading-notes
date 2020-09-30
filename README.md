@@ -71,6 +71,7 @@ These are my 15 daily reading assignments for [Code Fellows Code 201d64](https:/
 7. [WRRC and Java](401-reading-09.md)
 8. [Spring]((401-reading-11.md)
 9. [Spring RESTful Routing & Static Files](401-reading-12.md)
+10. [Related Spring Readings and Integration Testing](401-reading-13.md)
 
 > I have not failed. I’ve just found 10,000 ways that won’t work.
 

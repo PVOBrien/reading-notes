@@ -2,7 +2,7 @@
 
 Get this tutorial on the road jumping over to [Spring Initializr](https://start.spring.io), and it requires the Websocket dependency included.
 Furthermore, you'll need to add in to your build.gradle so that it includes the following:
-```java
+```json
 plugins {
 	id 'org.springframework.boot' version '2.3.2.RELEASE'
 	id 'io.spring.dependency-management' version '1.0.8.RELEASE'

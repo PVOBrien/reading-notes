@@ -74,6 +74,7 @@ These are my 15 daily reading assignments for [Code Fellows Code 201d64](https:/
 10. [Related Spring Readings and Integration Testing](401-reading-13.md)
 11. [Spring Authentication](401-reading-16.md)
 12. [Spring Authorization](401-reading-17.md)
+13. [Web App Security](401-reading-18.md)
 
 > I have not failed. I’ve just found 10,000 ways that won’t work.
 

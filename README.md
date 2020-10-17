@@ -76,6 +76,7 @@ These are my 15 daily reading assignments for [Code Fellows Code 201d64](https:/
 12. [Spring Authorization](401-reading-17.md)
 13. [Web App Security](401-reading-18.md)
 14. [Springs and Sprockets](401-reading-19.md)
+15. [Android Application Fundamentals](401-reading-26.md)
 
 > I have not failed. I’ve just found 10,000 ways that won’t work.
 

@@ -12,51 +12,51 @@ These are my 15 daily reading assignments for [Code Fellows Code 201d64](https:/
 
 2. [HTML Text, Introductory CSS, Basic JavaScript Instructions, Decisions and Loops](/CF201/201-class-02.md)
 
-3. [HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
+3. [HTML Lists, CSS Boxes, JS Control Flow](/CF201/class-03.md)
 
-4. [HTML Links, CSS Layout, JS Functions](class-04.md)
+4. [HTML Links, CSS Layout, JS Functions](/CF201/class-04.md)
 
-5. [HTML Images; CSS Color & Text](class-05.md)
+5. [HTML Images; CSS Color & Text](/CF201/class-05.md)
 
-6. [JS Object Literals; The DOM, and Understanding the Problem Domain](class-06.md)
+6. [JS Object Literals; The DOM, and Understanding the Problem Domain](/CF201/class-06.md)
 
-7. [Object-Oriented Programming, HTML Tables](class-07.md)
+7. [Object-Oriented Programming, HTML Tables](/CF201/class-07.md)
 
-8. [CSS Layout](class-08.md)
+8. [CSS Layout](/CF201/class-08.md)
 
-9. [Forms and JS Events](class-09.md)
+9. [Forms and JS Events](/CF201/class-09.md)
 
-10. [Error Handling & Debugging](class-10.md)
+10. [Error Handling & Debugging](/CF201/class-10.md)
 
-11. [Audio, Video, Images](class-11.md)
+11. [Audio, Video, Images](/CF201/class-11.md)
 
-12. [Chart.js, Canvas](class-12.md)
+12. [Chart.js, Canvas](/CF201/class-12.md)
 
-13. [The Past, Present, and Future of Local Storage for Web Applications](class-13.md)
+13. [The Past, Present, and Future of Local Storage for Web Applications](/CF201/class-13.md)
 
 14.
-- A. [CSS Transforms, Transitions, and Animations](class-14-a.md)
-- B. [What Google Learned From Its Quest to Build the Perfect Team](class-14-b.md)
+- A. [CSS Transforms, Transitions, and Animations](/CF201/class-14-a.md)
+- B. [What Google Learned From Its Quest to Build the Perfect Team](/CF201/class-14-b.md)
 
 -----------------------
 
 ## Code 301 - Intermediate Software Development
 
-1. [SMACSS and Responsive Web Design](301-reading-01.md)
-2. [PAIR PROGRAMMING and jQuery, Events, and The DOM](301-reading-02.md)
-3. [MUSTACHE and FLEXBOX](301-reading-03.md)
-4. [CSS GRID & Regex Introduction](301-reading-04.md)
-5. [Heroku Deployment](301-reading-05.md)
-6. [Node, Express, and APIs](301-reading-06.md)
-7. [REST & APIs Continued](301-reading-07.md)
-8. [SQL](301-reading-08.md)
-9. [Refactoring, and In Pursuit of More Legible Code](301-reading-09.md)
-10. [The Stack](301-reading-10.md)
-11. [EJS - Embedded JavaScript](301-reading-11.md)
-12. [EJS - Intro to Partials](301-reading-12.md)
-13. [Sending Form Data & Update/Delete](301-reading-13.md)
-14. [Database Normalization](301-reading-14.md)
-15. [Diversity and Inclusiong](301-reading-15.md)
+1. [SMACSS and Responsive Web Design](/CF301/301-reading-01.md)
+2. [PAIR PROGRAMMING and jQuery, Events, and The DOM](/CF301/301-reading-02.md)
+3. [MUSTACHE and FLEXBOX](/CF301/301-reading-03.md)
+4. [CSS GRID & Regex Introduction](/CF301/301-reading-04.md)
+5. [Heroku Deployment](/CF301/301-reading-05.md)
+6. [Node, Express, and APIs](/CF301/301-reading-06.md)
+7. [REST & APIs Continued](/CF301/301-reading-07.md)
+8. [SQL](/CF301/301-reading-08.md)
+9. [Refactoring, and In Pursuit of More Legible Code](/CF301/301-reading-09.md)
+10. [The Stack](/CF301/301-reading-10.md)
+11. [EJS - Embedded JavaScript](/CF301/301-reading-11.md)
+12. [EJS - Intro to Partials](/CF301/301-reading-12.md)
+13. [Sending Form Data & Update/Delete](/CF301/301-reading-13.md)
+14. [Database Normalization](/CF301/301-reading-14.md)
+15. [Diversity and Inclusiong](/CF301/301-reading-15.md)
 
 ----------------------
 

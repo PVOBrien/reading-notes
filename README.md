@@ -62,22 +62,22 @@ These are my 15 daily reading assignments for [Code Fellows Code 201d64](https:/
 
 ## Code 401 - Advanced Software Development
 
-1. [Java Basics](401-reading-01.md)
-2. [Arrays, Loops, Imports](401-reading-02.md)
-3. [Maps, primitives, File I/O](401-reading-03.md)
-4. [OOP](401-reading-04.md)
-5. [Interface & Inheritance](401-reading-05-06.md)
-6. [More Inheritance](401-reading-07.md)
-7. [WRRC and Java](401-reading-09.md)
-8. [Spring](401-reading-11.md)
-9. [Spring RESTful Routing & Static Files](401-reading-12.md)
-10. [Related Spring Readings and Integration Testing](401-reading-13.md)
-11. [Spring Authentication](401-reading-16.md)
-12. [Spring Authorization](401-reading-17.md)
-13. [Web App Security](401-reading-18.md)
-14. [Springs and Sprockets](401-reading-19.md)
-15. [Android Application Fundamentals](401-reading-26.md)
-16. [Intents, Activities, and SharedPreferences](401-reading-27.md)
+1. [Java Basics](/CF401/401-reading-01.md)
+2. [Arrays, Loops, Imports](/CF401/401-reading-02.md)
+3. [Maps, primitives, File I/O](/CF401/401-reading-03.md)
+4. [OOP](/CF401/401-reading-04.md)
+5. [Interface & Inheritance](/CF401/401-reading-05-06.md)
+6. [More Inheritance](/CF401/401-reading-07.md)
+7. [WRRC and Java](/CF401/401-reading-09.md)
+8. [Spring](/CF401/401-reading-11.md)
+9. [Spring RESTful Routing & Static Files](/CF401/401-reading-12.md)
+10. [Related Spring Readings and Integration Testing](/CF401/401-reading-13.md)
+11. [Spring Authentication](/CF401/401-reading-16.md)
+12. [Spring Authorization](/CF401/401-reading-17.md)
+13. [Web App Security](/CF401/401-reading-18.md)
+14. [Springs and Sprockets](/CF401/401-reading-19.md)
+15. [Android Application Fundamentals](/CF401/401-reading-26.md)
+16. [Intents, Activities, and SharedPreferences](/CF401/401-reading-27.md)
 
 > I have not failed. I’ve just found 10,000 ways that won’t work.
 

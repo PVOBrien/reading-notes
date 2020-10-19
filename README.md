@@ -10,7 +10,7 @@ These are my 15 daily reading assignments for [Code Fellows Code 201d64](https:/
 
 1. [Introductory HTML and JavaScript](introductory-html-and-javascript.md)
 
-2. [HTML Text, Introductory CSS, Basic JavaScript Instructions, Decisions and Loops](class-02.md)
+2. [HTML Text, Introductory CSS, Basic JavaScript Instructions, Decisions and Loops](/CF201/201-class-02.md)
 
 3. [HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
 

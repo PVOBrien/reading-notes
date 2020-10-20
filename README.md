@@ -65,6 +65,7 @@ These are my 15 daily reading assignments for [Code Fellows Code 201d64](https:/
 14. [Springs and Sprockets](/CF401/401-reading-19.md)
 15. [Android Application Fundamentals](/CF401/401-reading-26.md)
 16. [Intents, Activities, and SharedPreferences](/CF401/401-reading-27.md)
+17. [RecyclerView for displaying lists of data](/CF401/401-reading-28.md)
 
 > I have not failed. I’ve just found 10,000 ways that won’t work.
 

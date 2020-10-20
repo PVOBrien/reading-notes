@@ -10,4 +10,4 @@
 
 > "The view holder objects are managed by an _adapter_, which you create by extending ```RecyclerView.Adapter```." This creates view holders as needed to be onscreen, binding the relevant data to it, "by assigning the viewholder to a position, calling the adapter's ```onBindViewHolder()```.
 
-The rest of the article gets into the nuts and bolts to customize and tailor the RecycleView to specific needs.
+The rest of the article gets into the nuts and bolts to customize and tailor the RecycleView to specific needs, wherein if you need to build it, it's best to go to it to read the details that are relevant for your purposes.

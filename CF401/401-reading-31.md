@@ -5,6 +5,8 @@ Espresso is built in to Android Studio to create automated testing, and aims to 
 ### [Espresso Testing Samples and Recipes](https://github.com/android/testing-samples)
 - [ ] To be perused in depth at a later time.
 
+### [Espresso Cheat Sheet](https://developer.android.com/training/testing/espresso/cheat-sheet)
+
 ## [Running a UI Test with Espresso Test Recorder](https://developer.android.com/training/testing/espresso)
 
 NOTE: Turn off animations in your emulator or developer phone (or other Android testing environment).

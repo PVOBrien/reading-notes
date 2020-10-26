@@ -67,6 +67,7 @@ These are my 15 daily reading assignments for [Code Fellows Code 201d64](https:/
 16. [Intents, Activities, and SharedPreferences](/CF401/401-reading-27.md)
 17. [RecyclerView for displaying lists of data](/CF401/401-reading-28.md)
 18. [Room](/CF401/401-reading-28.md)
+19. [Espresso](/CF401/401-reading-31.md)
 
 > I have not failed. I’ve just found 10,000 ways that won’t work.
 

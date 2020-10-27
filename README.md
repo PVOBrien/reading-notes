@@ -69,6 +69,7 @@ These are my 15 daily reading assignments for [Code Fellows Code 201d64](https:/
 18. [Room](/CF401/401-reading-28.md)
 19. [Espresso](/CF401/401-reading-31.md)
 20. [Serverless and Amplify](/CF401/401-reading-32.md)
+21. [More on Serverless and Amplify](/CF401/401-reading-32.md)
 
 > I have not failed. I’ve just found 10,000 ways that won’t work.
 

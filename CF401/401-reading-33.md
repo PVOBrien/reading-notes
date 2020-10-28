@@ -2,8 +2,13 @@
 
 ## [Serverless Architecture](https://hackernoon.com/what-is-serverless-architecture-what-are-its-pros-and-cons-cc4b804022e9)
 
+New insights: serverless - in my current understanding - is that any data/database/tables you have, that data is transported between different stateless, ephemeral lambda functions in order for it to be molded into the desired form (state?) as desired by the developer. Definitely a different way to think about it, and for some purposes the likely route to take, but the benefits need to be weighed against the loss of control and "nearness" to the data, it being in the cloud and all.
+
+
 
 ## [AWS Amplify Kool-Aid](https://aws.amazon.com/amplify/)
+- AWS Amplify is still the awesome-est! oooooYEAH!!! 
+- Importantly, it is a gateway to documentation. Extensive, sometimes not updated, documentation.
 
 ## [GraphQL @connection - Adding Relationships Between Types](https://docs.amplify.aws/cli/graphql-transformer/connection)
 ``` Java

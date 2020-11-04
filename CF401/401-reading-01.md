@@ -1,5 +1,5 @@
 # [Java Basics](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)
-
+Note: all quotes and code snippets attributed to [Java Tutorials](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html).
 ## Variables
 
 First that stands out is a definition of "static" vs non-static variables. The way I read it, if it is "static" it basically means that it's a shared variable for a whole class, ie if you were to make a class for cars, then a likely __static__ variable would be the car's make and model, such that all Toyota (make) Priuses (model) will all (and likely always) be those two things. But, each car is very likely to have non-static variables such as speed, mileage, trim - variables that change from one Toyota Prius to another. Additionally, the __final__ keyword turns such variable into the Javascript equivalent of __const__.

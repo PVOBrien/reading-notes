@@ -16,7 +16,7 @@ But I'm still uncertain if autoboxing or unboxing is the better method to ensure
 
 What happens when there's an exception in your code? You try to catch it! Lest it crash your otherwise smoothly running code. 
 
-> Definition: An exception is an event, which occurs during the execution of a program, that disrupts the normal flow of the program's instructions.
+> Definition: An exception is an event, which occurs during the execution of a program, that disrupts the normal flow of the program's instructions. <br> Quote from [here](https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html).
 
 When an exception arises and it is *caught*, it moves up through the stack looking for something to handle it. If nothing catches it, a crash is the next likely step, if it compiles at all.
 

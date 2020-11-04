@@ -1,4 +1,5 @@
 # [OO (Object-Oriented) Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+Note: all code blocks and quotes attribution to [here](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design).
 
 ## S.O.L.I.D. Principles
 

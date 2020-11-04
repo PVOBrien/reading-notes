@@ -11,6 +11,7 @@ New insights: serverless - in my current understanding - is that any data/databa
 - Importantly, it is a gateway to documentation. Extensive, sometimes not updated, documentation.
 
 ## [GraphQL @connection - Adding Relationships Between Types](https://docs.amplify.aws/cli/graphql-transformer/connection)
+Note: the following code blocks are originally from Amazon Amplify documentation available [here](https://docs.amplify.aws/cli/graphql-transformer/connection).
 ``` Java
 directive @connection(keyName: String, fields: [String!]) on FIELD_DEFINITION
 ```
@@ -90,6 +91,6 @@ type User @model {
   posts: [PostEditor] @connection(keyName: "byEditor", fields: ["id"])
 }
 ```
-Many-to-many requiresa two 1-M @connections, an @key, and a joining @model. It is bi-directional to begin with hence the two 1-M @connections by default.
+Many-to-many requires a two 1-M @connections, an @key, and a joining @model. It is bi-directional to begin with hence the two 1-M @connections by default.
 
 > Note: After you have pushed a @connection directive you should not try to change it. If you try to change it, the DynamoDB UpdateTable operation will fail. Should you need to change a @connection, you should add a new @connection that implements the new access pattern, update your application to use the new @connection, and then delete the old @connection when it’s no longer needed.

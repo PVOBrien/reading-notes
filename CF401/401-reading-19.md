@@ -1,6 +1,6 @@
 # Real Time Messaging with Websockets
 
-Get this tutorial on the road jumping over to [Spring Initializr](https://start.spring.io), and it requires the Websocket dependency included.
+Get this tutorial on the road jumping over to [Spring Initializr](https://start.spring.io) (which is where all code blocks are originally from), and it requires the Websocket dependency included.
 Furthermore, you'll need to add in to your build.gradle so that it includes the following:
 ```
 plugins {

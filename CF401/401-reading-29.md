@@ -3,6 +3,7 @@
 ## [An Overview](https://developer.android.com/training/data-storage/room)
 
 > "Room provides an abstraction layer over SQLite to allow fluent database access while harnessing the full power of SQLite."
+(above quote from [here](https://developer.android.com/training/data-storage/room))
 
 When you need a non-trivial amount of content to be accessible offline, Android recommends Room! (Sounds like an advert!) It does seem there are reasons for this - persistence, the ease to upload the data online when possible, and abstraction (which I assume allows for higher level of security).
 
@@ -13,6 +14,7 @@ When you need a non-trivial amount of content to be accessible offline, Android 
 ### - DAO - AKA Data Access Objects, "contains the methods used for accessing the database."
 
 ## [Data Definition in Room](https://developer.android.com/training/data-storage/room/defining-data)
+Note: the following code blocks are originally from [here](https://developer.android.com/training/data-storage/room/defining-data).
 
 How to Define an Entity:
 
@@ -33,7 +35,7 @@ Also: using @Ignore annotation allows/makes it so that field/column will not per
 Lastly, ```@AutoValue``` and ```@CopyAnnotations``` seems to be a very useful tool, but I can't quite parse it just yet what it does.
 
 ## [Defining Relationships Between Objects](https://developer.android.com/training/data-storage/room/relationships)
-
+Note: the following code blocks are originally from [here](https://developer.android.com/training/data-storage/room/relationships).
 How to wire it all up, so that tables are related to other tables. There are the one-to-one, one-to-many, many-to-one, and many-to-many relationships.
 
 - One-to-One:
@@ -217,7 +219,8 @@ public List<UserWithPlaylistsAndSongs> getUsersWithPlaylistsAndSongs();
 // NOTE: documentation states this is data intensive and can impact performance.
 ```
 
-- [Accessing Data using Room DAOs](https://developer.android.com/training/data-storage/room/accessing-data#java)
+- [Accessing Data using Room DAOs](https://developer.android.com/training/data-storage/room/accessing-data#java) <br>
+Note: the following code blocks are originally from [here](https://developer.android.com/training/data-storage/room/accessing-data#java). <br>
 
 DAOs - Data Access Objects - are the means to access an app's data using Room, and this approach allows for "seperation of different components of your database architecture", and be either an interface or an abstract, and there are methods available for convenience:
 

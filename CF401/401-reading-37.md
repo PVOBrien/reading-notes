@@ -106,3 +106,4 @@ Amplify.Storage.downloadFile(
     { error -> Log.e("MyAmplifyApp", "Download Failure", error) }
 )
 ```
+Note: All quotes and code excerpted from Amazon documentation [here](https://docs.aws.amazon.com/AmazonS3/latest/dev/Introduction.html) or [here](https://docs.amplify.aws/lib/storage/getting-started/q/platform/android).

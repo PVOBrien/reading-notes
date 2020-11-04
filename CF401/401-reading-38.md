@@ -4,7 +4,7 @@
 
 SNS stands for Simple Notification Service, and there is also the Amazon SQS - Simple Queue Service. Pricing is dependent on quantity and included API calls, as well as where the message endpoints are.
 
-[How to set up a mobile app](https://docs.aws.amazon.com/sns/latest/dg/mobile-push-send.html)
+[How to set up a mobile app](https://docs.aws.amazon.com/sns/latest/dg/mobile-push-send.html) </br>
 Required:
 - A set of credentials for connecting to one of the supported push notification services: ADM, APNs, Baidu, FCM, MPNS, or WNS.
 - A device token or registration ID for the mobile app and device.

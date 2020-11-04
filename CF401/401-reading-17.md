@@ -1,10 +1,11 @@
 # Spring Authorization
 
 ## [Tutorial on OAuth](https://spring.io/guides/tutorials/spring-boot-oauth2)
+Note: below code blocks found [here](https://spring.io/guides/tutorials/spring-boot-oauth2).
 
 This is a tutorial slash template slash boilerplate walk through to get Spring Boot and OAuth2 working, complete with a link to the repo for it all to work, up to and including the app runs on localhost:8080 and requires either a github or google account to login (like any other login).
 
-For a singlt sign on steps as follows:
+For a single sign on steps as follows:
 
 1. Create a new Spring App project via the [Spring Boot Initialzr](https://start.spring.io) with the "Web" dependency as a starting point.
 2. Create an index.html in the resources/static folder and include the following content in the header to prettify it (does not affect the OAuth, but they tell you this after the fact): 

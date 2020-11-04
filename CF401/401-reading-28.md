@@ -1,4 +1,5 @@
 # [RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview#java)
+Note: the below quotes can be found [here](https://developer.android.com/guide/topics/ui/layout/recyclerview#java).
 
 ## Overview
 

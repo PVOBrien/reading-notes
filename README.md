@@ -72,6 +72,7 @@ These are my 15 daily reading assignments for [Code Fellows Code 201d64](https:/
 21. [More on Serverless and Amplify](/CF401/401-reading-33.md)
 22. [Amplify with Cognito for Login](/CF401/401-reading-34.md)
 23. [Amazon S3](/CF401/401-reading-37.md)
+24. [Notifications via Amazon SNS](https://github.com/PVOBrien/reading-notes/blob/master/CF401/401-reading-38.md)
 
 > I have not failed. I’ve just found 10,000 ways that won’t work.
 

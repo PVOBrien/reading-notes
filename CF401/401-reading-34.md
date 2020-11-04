@@ -92,3 +92,5 @@ Amplify.Auth.confirmSignIn(
 );
 ```
 and you now have a logged in user. Or, at least the background work. I get the feeling it's up to the user to actually visually enable the auth(entification) capabilities. Likely using Handler (for the threads that amplify create/utilize).
+
+ ### Note: all code is originally from Amazon documentation [here](https://docs.amplify.aws/lib/auth/getting-started/q/platform/android).

@@ -1,6 +1,7 @@
 # Spring Authentification
 
 ## [Spring Security Overview](https://spring.io/guides/topicals/spring-security-architecture)
+Note: code and quotes originally found [here](https://spring.io/guides/topicals/spring-security-architecture)
 
 Filters. I see this show up in the logs whenever I hit the play button.
 

@@ -2,7 +2,7 @@
 
 ## [Spring Request Mapping](https://www.baeldung.com/spring-requestmapping)
 
-1. Overview - @RequestMapping annotation "is used to map web requests to Spring Controller methods".
+1. Overview - @RequestMapping annotation is for mapping web requests to Spring Controller methods".
 
 2. @RequestMapping Basics
 

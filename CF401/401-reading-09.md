@@ -13,6 +13,7 @@ Local Processing
 - Upon all completion (and a brief timeout) the communication shuts down, and both sides clean up various details, and both are ready to make additional calls / requests.
 
 ## [Java HTTP Request example](https://www.baeldung.com/java-http-request)
+Note: below attribution for quotes and code blocks at this [page](https://www.baeldung.com/java-http-request).
 
 - HttpUrlConnection - the Java 8 class "to perform basic HTTP requests without the use of any additional libraries". This is found within the java.net package.
 

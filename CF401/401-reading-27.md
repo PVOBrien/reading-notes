@@ -1,7 +1,7 @@
 # Intents, Activities, and SharedPreferences
 
 ## [Tasks and Back Stack](https://developer.android.com/guide/components/activities/tasks-and-back-stack)
-
+The following code blocks and quotes are attributed to [this page](https://developer.android.com/guide/components/activities/tasks-and-back-stack).
 > "A task is a collection of activities that users interact with when performing a certain job."
 The tasks are arranged in a _back stack_ - referring to the back button on android devices. This back stack starts from the Home screen. When the __Back__ button is pressed, it pops the most recent item on the stack. #LIFO.
 
@@ -44,6 +44,7 @@ Additionally, in connection with the launch mode, launch mode is in fact an attr
 ========
 
 ## [Android SharedPreferences](https://developer.android.com/training/data-storage/shared-preferences)
+The following code blocks and quotes are attributed to [this page](https://developer.android.com/training/data-storage/shared-preferences).
 
 > If you have a relatively small collection of key-values that you'd like to save, you should use the SharedPreferences APIs. A SharedPreferences object points to a file containing key-value pairs and provides simple methods to read and write them. Each SharedPreferences file is managed by the framework and can be private or shared.
 

@@ -8,6 +8,7 @@ As for the application itself, it ran, there's a framework to impliment and use,
 
 
 ## [Spring MVC and Thymeleaf](https://www.thymeleaf.org/doc/articles/springmvcaccessdata.html)
+Below quotes and code originally found [here](https://www.thymeleaf.org/doc/articles/springmvcaccessdata.html).
 
 > In a typical Spring MVC application, @Controller classes are responsible for preparing a model map with data and selecting a view to be rendered.
 A model map - in Spring, allows for complete abstraction of the view technoloby, and become a "Thymeleaf context object - which is, furthermore, _"part of the Thymeleaf template execution context"_

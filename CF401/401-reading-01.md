@@ -22,7 +22,7 @@ Also, arrays are not literals, they must be initialized with the __new__ keyword
 
 ## Operators
 
-![Operators for Java](https://github.com/PVOBrien/reading-notes/blob/master/Java%20Operators.png?raw=true)
+![Operators for Java](https://github.com/PVOBrien/reading-notes/blob/master/resources/Java%20Operators.png?raw=true)
 
 That above image is also arranged in order of precedence (top entry takes first precedence and on down in order). There are definitely different and currently unknown operators (shift? relational? assignment?) that we'll be learning as we pick up Java, and how to correctly utiilize them.
 

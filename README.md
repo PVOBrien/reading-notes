@@ -75,6 +75,7 @@ These are my 15 daily reading assignments for [Code Fellows Code 201d64](https:/
 24. [Notifications via Amazon SNS](https://github.com/PVOBrien/reading-notes/blob/master/CF401/401-reading-38.md)
 25. [Kinesis](https://github.com/PVOBrien/reading-notes/blob/master/CF401/401-reading-38.md)
 26. [Intent Filters](https://github.com/PVOBrien/reading-notes/blob/master/CF401/401-reading-41.md)
+27. [Location](https://github.com/PVOBrien/reading-notes/blob/master/CF401/401-reading-42.md)
 
 > I have not failed. I’ve just found 10,000 ways that won’t work.
 
